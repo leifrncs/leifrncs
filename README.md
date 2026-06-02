@@ -2,7 +2,7 @@
 
 I am a passionate software developer and a **Bachelor of Science in Computer Science** student at North Eastern Mindanao State University (NEMSU). I enjoy building secure, scalable applications and integrating artificial intelligence to solve practical problems.
 
-Currently, I am actively seeking an **On-The-Job Training (OJT)** position where I can contribute to a professional tech team, expand my expertise in full-stack development, and work on impactful real-world projects.
+Currently, I am exploring new opportunities and technologies to expand my expertise in full-stack development, dive deeper into AI integration, and work on impactful real-world projects.
 
 ### 🛠️ Tech Stack & Tools
 
