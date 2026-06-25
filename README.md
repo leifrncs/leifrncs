@@ -5,13 +5,13 @@
 
 <div align="center">
   <a href="https://github.com/leifrncs">
-    <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=500&size=45&pause=1500&color=F472B6&center=true&vCenter=true&width=800&height=100&lines=>_+sudo+login+Laine+Francis+Tomalon;>_+Authentication+Successful.;>_+Welcome+to+the+Mainframe." alt="Terminal Boot Sequence" />
+    <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=500&size=45&pause=1500&color=F472B6&center=true&vCenter=true&width=800&height=100&lines=>_+sudo+login+Laine+Francis+Tomalon;>_+Authentication+Successful.;>_+Welcome+to+my+Profile." alt="Terminal Boot Sequence" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/leifrncs">
-    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=22&pause=1000&color=A020F0&center=true&vCenter=true&width=800&height=50&lines=Full-Stack+Developer+|+AI+Integrator+" alt="Roles" />
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=22&pause=1000&color=A020F0&center=true&vCenter=true&width=800&height=50&lines=Full-Stack+Developer+|+AI+Integrator+|+Web+Exploitation" alt="Roles" />
   </a>
 </div>
 
@@ -23,6 +23,24 @@
 
 <p align="center">
   <b>I specialize in crafting secure web platforms, scalable mobile systems, and integrating intelligent AI models to solve real-world problems.</b>
+</p>
+
+<p align="center">
+  <!-- Neon Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=leifrncs&label=PROFILE+VIEWS&color=A020F0&style=for-the-badge" alt="Profile Views Counter" />
+</p>
+
+<p align="center">
+  <!-- Top Connections -->
+  <a href="https://laine-francis-tomalon-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-A020F0?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:tomalonlainefrancis@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://facebook.com/leiiifrncs">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
 </p>
 
 <br>
@@ -83,27 +101,12 @@
 
 <p align="center">
   <!-- Dynamic Activity Line Graph in Cyber Nexus Colors -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leifrncs&bg_color=0D1117&color=F472B6&line=A020F0&point=FFFFFF&hide_border=true&title_color=A020F0" alt="GitHub Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leifrncs&bg_color=0D1117&color=F472B6&line=A020F0&point=A020F0&hide_border=true&title_color=A020F0&v=3" alt="GitHub Activity Graph" width="100%" />
 </p>
 
 <p align="center">
-  <!-- GitHub Streak Card with Visible Numbers -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leifrncs&hide_border=true&stroke=A020F0&ring=F472B6&fire=F472B6&currStreakLabel=F472B6&sideLabels=F472B6&dates=F472B6&sideNums=FFFFFF&currStreakNum=FFFFFF&background=0D1117" alt="GitHub Streak" width="55%" />
+  <!-- Top Languages Card in Cyber Nexus Colors -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leifrncs&layout=compact&hide_border=true&title_color=A020F0&text_color=F472B6&bg_color=0D1117&v=3" alt="Top Languages" width="55%" />
 </p>
 
 <br>
-
-<h2 align="center">CONNECT WITH ME</h2>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,A020F0,F472B6&height=2" width="400" alt="divider" />
-</div>
-
-<p align="center">
-  <a href="mailto:tomalonlainefrancis@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://facebook.com/your-facebook-profile">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-</p>
