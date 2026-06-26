@@ -54,7 +54,7 @@
 <ul>
   <li><b>Academic Background:</b> Bachelor of Science in Computer Science student at NEMSU.</li>
   <li><b>Current Focus:</b> Actively building RAG systems, Conversational AI, and Full-Stack applications.</li>
-  <li><b>Cybersecurity:</b> Engaging in Capture The Flag (CTF) challenges with a focus on <b>web exploitation</b>, applying cryptography concepts (including ciphers and binary decoding), and navigating Linux environments.</li>
+  <li><b>Cybersecurity:</b> Engaging in Capture The Flag (CTF) challenges with a focus on web exploitation, applying cryptography concepts (including ciphers and binary decoding), and navigating Linux environments.</li>
   <li><b>Mission:</b> Exploring ways to build accessible, intelligent systems that solve real-world community challenges through technology.</li>
   <li><b>Certifications:</b> Civil Service Professional Eligible.</li>
 </ul>
@@ -70,7 +70,7 @@
 <p align="center">
   <!-- Skill Icons with glass-morphism effect -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,ts,dart,react,nextjs,flutter,tailwind,firebase,docker,fastapi,mysql,linux,git,vscode&perline=7" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=python,ts,dart,react,nextjs,flutter,tailwind,firebase,docker,fastapi,mysql,kali,git,vscode&perline=7" alt="Tech Stack" />
   </a>
 </p>
 
@@ -82,13 +82,13 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,A020F0,F472B6&height=2" width="400" alt="divider" />
 </div>
 
-> **[EpiSense](https://github.com/leifrncs)**  
+> **[EpiSense](https://github.com/leifrncs/Episense_App)**  
 > An AI-powered educational tool built with Next.js, FastAPI, LangChain, and Docker, focused on improving public understanding and awareness of HIV/AIDS.
 
-> **[DemocraSync](https://github.com/leifrncs)**  
+> **[DemocraSync](https://github.com/leifrncs/DemocraSync-Online-Voting-System)**  
 > A secure, cross-platform voting app using Flutter and Firebase, featuring OCR AI for automated student record verification.
 
-> **[Cyber Nexus](https://github.com/leifrncs)**  
+> **[Cyber Nexus](https://github.com/leifrncs/cyber-nexus)**  
 > An automated deployment hub built for our student organization using React and Tailwind CSS.
 
 <br>
