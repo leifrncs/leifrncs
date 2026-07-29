@@ -9,12 +9,13 @@
   </a>
 </div>
 
+<!--
 <div align="center">
   <a href="https://github.com/leifrncs">
     <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=22&pause=1000&color=A020F0&center=true&vCenter=true&width=800&height=50&lines=Full-Stack+Developer+|+AI+Integrator+|+Web+Exploitation" alt="Roles" />
   </a>
 </div>
-
+-->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,A020F0,F472B6&height=4" width="800" alt="divider" />
 </div>
